@@ -2,7 +2,7 @@
 
 Louis Nutt-Wilson, ve23446@bristol.ac.uk, louisnw01
 
-Xinyu Hu, tt23929@bristol.ac.uk, MeiloMul
+Xinyu Hu, tt23929@bristol.ac.uk, MeiloMuI
 
 Li-Hshin Chien, xh23662@bristol.ac.uk, Lishin1215
 
